@@ -66,3 +66,6 @@
 	- Perl
 	- Lua
 	- Bash
+
+## License
+Licensed under the MIT license.
